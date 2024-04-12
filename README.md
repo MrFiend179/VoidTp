@@ -21,7 +21,7 @@ The VoidTp plugin offers several configuration options to tailor its behavior ac
 ## Usage
 VoidTp operates seamlessly in the background without requiring any specific commands or manual intervention. Once installed and configured, the plugin will automatically intercept void fall events and teleport players to safety.
 
-## Commans
+## Commands
 The command to set spawn point is ```/voidtp setspawn```, nothing else.
 
 ## Support
