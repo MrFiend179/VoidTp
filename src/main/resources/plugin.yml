@@ -1,0 +1,11 @@
+name: VoidTp
+version: '${project.version}'
+main: mc.flubel.voidtp.VoidTp
+api-version: 1.18
+authors: [ Fiend ]
+description: prevents player from falling into void
+
+commands:
+  voidtp:
+    description: Set the spawn location for VoidTP.
+    usage: /voidtp setspawn
